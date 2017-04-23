@@ -15,3 +15,5 @@ and energy (w) in both negative and positive values (i.e. if you have a heat pum
 if using Node-red to process the MQTT packet you will need to pass it through JSON function to convert it from string to an object
 in node-red:
 MQTT >> JSON>> FREEBOARD 
+
+https://community.openenergymonitor.org/t/esp8266-multiple-flow-heat-meter-for-heat-pumps-and-solar-thermals/3226
