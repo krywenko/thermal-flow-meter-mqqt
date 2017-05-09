@@ -17,3 +17,6 @@ in node-red:
 MQTT >> JSON>> FREEBOARD 
 
 https://community.openenergymonitor.org/t/esp8266-multiple-flow-heat-meter-for-heat-pumps-and-solar-thermals/3226
+
+example output to freeboard
+https://github.com/krywenko/thermal-flow-meter-mqqt/blob/master/bin65.jpg
